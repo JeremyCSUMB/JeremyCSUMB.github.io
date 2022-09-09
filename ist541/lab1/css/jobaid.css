@@ -50,5 +50,18 @@ img {
 	text-align: center;
 }
 
+.warning {
+		background-color: #FBB8C4;
+		padding:10px;
+		border-radius:20px;
+}
+
+.material-icons {
+	color:red; 
+	font-size:3em;
+}
+
+
+
 
 
