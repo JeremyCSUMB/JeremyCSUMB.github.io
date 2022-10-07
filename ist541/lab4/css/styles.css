@@ -1,6 +1,5 @@
 @charset "UTF-8";
 /* CSS Document */
-
 body {
 	background-image: url("../img/chinese_writing.gif");   /* background image*/
 	color: #444;          /* text color for the entire document */
@@ -30,3 +29,4 @@ h1, h2 {
 audio { 
 	width:200px;   /* sets the width of the audio controls */
 }
+
